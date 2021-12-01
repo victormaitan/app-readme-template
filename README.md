@@ -11,10 +11,10 @@ Descrição do app
 
 ## Play Store
 
-Confira meus apps publicados na
+Confira meus apps publicados na <br>
 <a href="https://play.google.com/store/apps/dev?id=6851722860195299838"><img src="https://img.shields.io/badge/-Google Play-000000?style=for-the-badge&logo=Google Play&logoColor=ffffff" /></a>
 
-Link para o app:
+Link para o app: <br>
 <a href="https://play.google.com/store/apps/details?id=br.maitan.minhasreceitas"><img src="https://img.shields.io/badge/-Nossas Receitas-242424?style=for-the-badge&logo=Flutter&logoColor=00a8e0" /></a>
 
 ## Tecnologias utilizadas
